@@ -84,3 +84,6 @@ nav {
 .social a {
     padding: 0 2rem 0 2rem ;
 }
+.social:hover{
+  opacity: 0.5;
+}
